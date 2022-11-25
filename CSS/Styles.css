@@ -17,6 +17,7 @@ h3{
   font-family: 'Montserrat', sans-serif;
   font-size: 40px;
 }
+
 hr{
   margin: 120px auto;
   width: 5%;
@@ -88,3 +89,33 @@ margin: auto;
 padding: 30px;
 
 }
+
+
+hr{
+  margin: 120px auto;
+  width: 5%;
+   border-top:15px  dotted #2DC4E6;
+   border-bottom: none;
+   border-left: none;
+
+
+}
+
+.bottom-container{
+background-color:#B1E1FF;
+width: 50%;
+margin: auto;
+padding: 30px;
+
+}
+
+.midstatement{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 100px;
+
+
+}
+
+
+
